@@ -165,9 +165,6 @@ const layout = {title:"World Wide Wine Production"};
 
 Plotly.newPlot("myPlot", data, layout);
 
-
-
-
 function login() {
   let email1 = document.getElementById('email1').value;
   let pass1 = document.getElementById('password1').value;
