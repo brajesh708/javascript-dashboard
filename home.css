@@ -399,7 +399,6 @@ background-color: rgb(38, 100, 177);
 }
 
 /* ================================== */
-
   @media(max-width:1041px){
     #aside{
         display: none;

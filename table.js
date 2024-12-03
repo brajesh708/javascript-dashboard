@@ -41,8 +41,7 @@ function run() {
     }
 
     fetchData();
-}
-function ch() {
+}function ch() {
     // Call the run function when the button is clicked
     run();
 }
